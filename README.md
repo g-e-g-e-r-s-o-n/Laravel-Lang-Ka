@@ -20,7 +20,7 @@ composer require gegetchkori/laravel_lang_ka
 
 If laravel version in your project <= 5.4, open `config/app.php` in yor project and add following code to `providers` array:
 
-```diff
+```html
 ! Gegetchkori\Laravel_lang_ka\LanguageServiceProvider::# class,
 ```
 
