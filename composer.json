@@ -1,6 +1,8 @@
 {
     "name": "gegetchkori/laravel_lang_ka",
     "description": "Georgian language for Laravel",
+    "keywords": ["laravel", "language", "lang", "ka"],
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -10,10 +12,13 @@
     ],
     "autoload": {
         "psr-4": {
-            "Gegetchkori\\Laravel_lang_ka\\": "src"
+            "Gegetchkori\\Laravel_lang_ka\\": "src/"
         }
     },
 
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "php": "^7.1|^8.0",
+        "laravel/framework": "5.5.*|5.6.*|5.7.*|5.8.*|^6.0|^7.0|^8.0"
+    }
 }
