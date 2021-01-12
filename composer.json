@@ -1,0 +1,19 @@
+{
+    "name": "gegetchkori/laravel_lang_ka",
+    "description": "Georgian language for Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Giorgi Gegetchkori",
+            "email": "giorgi.gegetchkori.1@btu.edu.ge"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Gegetchkori\\Laravel_lang_ka\\": "src"
+        }
+    },
+
+    "minimum-stability": "dev",
+    "require": {}
+}
