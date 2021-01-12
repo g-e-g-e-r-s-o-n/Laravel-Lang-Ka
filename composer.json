@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Gegetchkori\\Laravel_lang_ka\\": "resources/"
+            "Gegetchkori\\Laravel_lang_ka\\": "src/"
         }
     },
 
