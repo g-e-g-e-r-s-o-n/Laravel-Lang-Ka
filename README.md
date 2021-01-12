@@ -20,8 +20,8 @@ composer require gegetchkori/laravel_lang_ka
 
 If laravel version in your project <= 5.4, open `config/app.php` in yor project and add following code to `providers` array:
 
-```html
-#f03c15 Gegetchkori\Laravel_lang_ka\LanguageServiceProvider::#ffffff class,
+```
+Gegetchkori\Laravel_lang_ka\LanguageServiceProvider::class,
 ```
 
 Then run this command on terminal in your project root:
