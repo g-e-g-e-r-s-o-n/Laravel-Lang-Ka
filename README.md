@@ -14,7 +14,7 @@ This package allows you to replace locale `en` with `ka` in `config/app.php` fil
 
 | name | version |
 | ---- | ------- |
-| `php`  | ^7.1 or ^8.0 |
+| `php`  | 5.4.*, 5.5.*, 5.6.*, ^7.1, ^8.0 |
 | `laravel` | from 5.0.* to ^8.0 |
 
 
