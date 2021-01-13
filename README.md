@@ -10,6 +10,15 @@ This package allows you to replace locale `en` with `ka` in `config/app.php` fil
 [![Daily Downloads](https://poser.pugx.org/gegetchkori/laravel_lang_ka/d/daily)](https://packagist.org/packages/gegetchkori/laravel_lang_ka)
 
 
+# Requirements
+
+| name | version |
+| ---- | ------- |
+| `php`  | `^7.1|^8.0` |
+| `laravel` | `5.0.*|5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*|^6.0|^7.0|^8.0` |
+
+
+
 # Installation
 
 Run this command on terminal in your project root:
