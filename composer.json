@@ -1,7 +1,7 @@
 {
     "name": "gegetchkori/laravel_lang_ka",
     "description": "Georgian language for Laravel",
-    "keywords": ["laravel", "language", "lang", "ka"],
+    "keywords": ["laravel", "language", "lang", "ka", "localization"],
     "type": "library",
     "license": "MIT",
     "authors": [
