@@ -14,8 +14,8 @@ This package allows you to replace locale `en` with `ka` in `config/app.php` fil
 
 | name | version |
 | ---- | ------- |
-| `php`  | `5.4.*`, `5.5.*`, `5.6.*`, `^7.1`, `^8.0` |
-| `laravel` | from `5.0.*` to `^8.0` |
+| `php`  | `^7.1` or `^8.0` |
+| `laravel` | from `5.5.*` to `^8.0` |
 
 
 
@@ -25,12 +25,6 @@ Run this command on terminal in your project root:
 
 ```
 composer require gegetchkori/laravel_lang_ka
-```
-
-If laravel version in your project <= 5.4, open `config/app.php` in yor project and add following code to `providers` array:
-
-```php
-Gegetchkori\Laravel_lang_ka\LanguageServiceProvider::class,
 ```
 
 Then run this command on terminal in your project root:
